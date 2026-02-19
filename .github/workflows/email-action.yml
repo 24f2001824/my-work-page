@@ -1,4 +1,4 @@
-name: Email Workflow
+name: Email Action
 
 on:
   push:
